@@ -1,5 +1,5 @@
 # Vercee Team
-Welcome to the Vercee Team GitHub page! We are the development team behind Vercee LLC, a revolutionary platform that aims to transform the live music industry by offering immersive virtual concert experiences. Based in Vancouver, Washington, Vercee bridges the gap between traditional concerts, Broadway-style performances, and music videos, providing a truly unique experience for both fans and artists.
+We are the development team behind Vercee LLC, a revolutionary platform that aims to transform the live music industry by offering immersive virtual concert experiences. Based in Vancouver, Washington, Vercee bridges the gap between traditional concerts, Broadway-style performances, and music videos, providing a truly unique experience for both fans and artists.
 
 
 ## 🌟 Our Mission
