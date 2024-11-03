@@ -51,7 +51,7 @@ Jarom Gillins – CEO and Co-Founder
 
 Eli Malinski – Software Developer and Co-Founder
 
-Cory Campbell - Software Developer
+Cory Campbell - Software Developer and Co-Founder
 
 
 ## 🌍 Future Growth Plans
